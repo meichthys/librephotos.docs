@@ -8,7 +8,6 @@ category: 5
 We developed our frontend with the following technologies:
 
 - React
-- Semantic UI
 - Redux
 - Axios
 
